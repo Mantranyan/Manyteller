@@ -2,6 +2,12 @@
 Manyteller
 
 Mannyteller designed to be a roleplay engine, in any situation.
+
+If you like my work you can support me directly here:
+https://ko-fi.com/mantranyan
+
+
+
 Features:
 - Ease of use: place any card on top of it, lorebook etc. and start playing
 - Ligtweight. Instead of a set of instructions it creates patterns for an LLM to follow wich is its flaw aswell, because it really depends on the LLM’s training.
