@@ -1,17 +1,25 @@
 
 Manyteller
 
+Mannyteller designed to be a roleplay engine, in any situation.
+Features:
+- Ease of use: place any card on top of it, lorebook etc. and start playing
+- Ligtweight. Instead of a set of instructions it creates patterns for an LLM to follow wich is its flaw aswell, because it really depends on the LLM’s training.
+- Deep NPC system. The values and vocabulary the prompt gives to the LLM forces to make detailed decision for even the random “burly bartender.”
+- The whole build itself try to adress a lot of LLM roleplay issues sturcturally rather than restrict certain behaviours.
+Note: This system is meant to be realistic.
 
+Model recommendations: 
+- Deepseekv4,v3.1
+- Glm’s
+- Kimi 2.6
+- Minimax m3
+untested but should work: Claude, Gemini, Gpt
 
-models i’ve tested(always thinking): Deepseekv4,v3.1
+Branches:
+- MannyAC (companion experience style one on one iteration without all the storytelling machinery)+Special Lorebook format for exceptional depth.)
+- MannytellerLiGHT (Less heavy one storythread following classic USER POV style)
 
-Glm’s, though it can be a little passive above 4.7
-Kimi 2.6
-Minimax m3 
-
-(I recon gemini and claude would nail it.)
-
-Its designed to be a roleplay engine, in any situation.
 
 License & Usage
 Manyteller is shared publicly so people can learn from it, use it for their own personal storytelling/roleplay projects, and see how the systems work.
