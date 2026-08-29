@@ -35,4 +35,3 @@ If you reference, discuss, or link to Framework_2 publicly, please credit:
 
 ---
 
-*This license covers the specific text, structure, and named systems in Manyteller. It does not — and cannot — prevent others from independently developing conceptually similar systems using different names, wording, or architecture. It protects the actual work, not the underlying ideas.*
