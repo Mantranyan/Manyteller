@@ -30,7 +30,7 @@ Unauthorized commercial use is a violation of this license and may result in a t
 
 If you reference, discuss, or link to Framework_2 publicly, please credit:
 
-> Manyteller by [Mantranyan] — [
+> Manyteller by [Mantranyan] — [https://github.com/Mantranyan/Manyteller
 ]
 
 ---
