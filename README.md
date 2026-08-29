@@ -28,6 +28,7 @@ Branches:
 
 
 License & Usage
+
 Manyteller is shared publicly so people can learn from it, use it for their own personal storytelling/roleplay projects, and see how the systems work.
 Free to use personally. Run it, tweak it for your own private setup, use it in your own games/chats. No permission needed.
 Not free to use commercially. If you want to sell something built on this, offer it as a paid service, bundle it into a commercial product, or build a monetized tier around it — reach out first. I’m open to discussing commercial licensing, I just want to know about it and be part of the conversation.
