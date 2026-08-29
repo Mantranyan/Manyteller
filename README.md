@@ -20,11 +20,14 @@ Model recommendations:
 - Glm’s
 - Kimi 2.6
 - Minimax m3
+
+
 untested but should work: Claude, Gemini, Gpt
 
 Branches:
 - MannyAC (companion experience style one on one iteration without all the storytelling machinery)+Special Lorebook format for exceptional depth.)
 - MannytellerLiGHT (Less heavy one storythread following classic USER POV style)
+  
 
 
 License & Usage
