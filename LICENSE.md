@@ -22,7 +22,7 @@ You may **not**, without separate written permission from the author:
 
 If you are a company, developer, or individual interested in commercial use, integration, or a licensed derivative of Manyteller — including but not limited to incorporating its systems (WHY Engine, Copernican Check, Negative Space Protocol, character card architecture, etc.) into a commercial product or service — you must contact the author first to negotiate a separate commercial license.
 
-**Contact:** [add your preferred contact — email, GitHub handle, or a contact form link]
+**Contact:** [rndesigninfo@gmail.com, Discord:@Mantranyan]
 
 Unauthorized commercial use is a violation of this license and may result in a takedown request or other enforcement action.
 
@@ -30,7 +30,8 @@ Unauthorized commercial use is a violation of this license and may result in a t
 
 If you reference, discuss, or link to Framework_2 publicly, please credit:
 
-> Manyteller by [your name/handle] — [link to repo]
+> Manyteller by [Mantranyan] — [
+]
 
 ---
 
